@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Generate .tgz file from the contents of the web_static folder"""
+"""Generate .tgz file from the contents of the web_static folder."""
 
 from fabric import api
 from datetime import datetime

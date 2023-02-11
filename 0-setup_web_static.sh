@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Script using bash to setup webservers for deployment of simple HTML
-# content
+# content.
 
 apt-get update && \
 apt-get install -y nginx && \
